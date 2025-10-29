@@ -1,2 +1,1 @@
-teams message check
-commit check
+commitid check
